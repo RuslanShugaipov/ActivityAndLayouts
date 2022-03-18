@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ActivityAndLayouts</string>
+    <string name="splashActivity_text">about a person</string>
+    <string name="surname">Shugaipov</string>
+    <string name="name">Ruslan</string>
+    <string name="patronymic">Ramilevich</string>
+</resources>
